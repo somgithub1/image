@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13766" started-at="2020-01-20T16:17:05 CST" finished-at="2020-01-20T16:17:19 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13766" started-at="2020-01-20T16:17:05 CST" finished-at="2020-01-20T16:17:19 CST">
+      <class name="imagePackage.ImageClass">
+        <test-method status="PASS" signature="verifyImageAppearance()[pri:0, instance:imagePackage.ImageClass@17baae6e]" name="verifyImageAppearance" duration-ms="13707" started-at="2020-01-20T16:17:05 CST" finished-at="2020-01-20T16:17:19 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyImageAppearance -->
+      </class> <!-- imagePackage.ImageClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
